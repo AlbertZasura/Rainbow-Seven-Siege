@@ -2,9 +2,7 @@
 
 This repository is used for Human and Computer Interaction Project.
 
-All of the contents are private (for group only).
-
-# DO NOT RE-SHARE CODES INSIDE THIS REPOSITORY UNTIL I CHANGE THE REPOSITORY BECOME PUBLIC
+# This Project is like clone from RainbowSix Seige.
 
 # Author Lists:
 
