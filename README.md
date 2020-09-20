@@ -1,8 +1,8 @@
 # RainbowSevenSiege
 
-This repository is used for Human and Computer Interaction Project.
+This repository is used for ***Human and Computer Interaction*** Project.
 
-# This Project is like clone from RainbowSix Seige.
+# This Project is just Clone from RainbowSix Seige.
 
 # Author Lists:
 
