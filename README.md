@@ -1,6 +1,6 @@
 # RainbowSevenSiege
 
-This repository is used for ***Human and Computer Interaction*** Project.
+This repository is used for ***Human and Computer Interaction*** Project. We use HTML, CSS, and JS to create the website.
 
 # This Project is just Clone from RainbowSix Seige.
 
